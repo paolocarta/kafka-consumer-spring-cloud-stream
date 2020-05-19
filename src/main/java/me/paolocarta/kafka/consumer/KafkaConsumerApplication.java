@@ -1,4 +1,4 @@
-package me.paolocarta.kafka.producer;
+package me.paolocarta.kafka.consumer;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

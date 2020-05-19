@@ -4,5 +4,5 @@ oc import-image openjdk/openjdk-11-rhel7 --from=registry.access.redhat.com/openj
 
 oc new-project kafka-playground
 
-oc new-app openjdk-11-rhel7~url \
+oc new-app openjdk-11-rhel7~https://github.com/paolocarta/kafka-consumer-spring-cloud-stream.git \
 --name=kafka-consumer

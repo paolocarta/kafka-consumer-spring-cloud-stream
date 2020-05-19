@@ -1,4 +1,4 @@
-package me.paolocarta.kafka.producer.services;
+package me.paolocarta.kafka.consumer.services;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

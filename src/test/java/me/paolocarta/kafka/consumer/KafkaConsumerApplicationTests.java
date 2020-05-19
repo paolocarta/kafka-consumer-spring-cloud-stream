@@ -1,4 +1,4 @@
-package me.paolocarta.kafka.producer;
+package me.paolocarta.kafka.consumer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
